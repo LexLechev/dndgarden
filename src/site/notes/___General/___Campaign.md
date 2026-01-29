@@ -9,7 +9,7 @@ The region in which the campaign takes place.
 ## General Info
 [[___General/Calendar\|Calendar]]
 [[___General/Deities\|Deities]]
-[[___General/SilverSea Coast Map\|SilverSea Coast Map]]
+[[___General/SilverSea Map\|SilverSea Map]]
 
 ## Cities & Towns
 [[Locations/Silver Sea coast/Cities & Towns/Кралиград\|Кралиград]]
